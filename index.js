@@ -22,8 +22,10 @@ app = http.createServer(function (req, res) {
 
     // init & guess
     i18n.init(req, res);
+    i18n.setLocale('de');
 
-    console.log("Hello mister");
+    let greeting = i18n.__('Hello');
+    console.log(greeting);
 });
 
 // startup

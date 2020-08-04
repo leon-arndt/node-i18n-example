@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113d8ab2-fba1-4f29-8ff0-8fc6a824759e" name="Default Changelist" comment="" />
+    <list default="true" id="113d8ab2-fba1-4f29-8ff0-8fc6a824759e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/de.json" beforeDir="false" afterPath="$PROJECT_DIR$/locales/de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/locales/en.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fct2VNrCebXRm004ipZoWjcMZ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596529001807</updated>
-      <workItem from="1596529002837" duration="673000" />
+      <workItem from="1596529002837" duration="1505000" />
     </task>
     <servers />
   </component>
@@ -50,5 +59,13 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1596529563373" />
+    <state x="694" y="403" key="Github.ShareDialog" timestamp="1596529711322">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="694" y="403" key="Github.ShareDialog/-1280.0.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1596529711322" />
+    <state x="615" y="210" key="Github.UntrackedFilesDialog" timestamp="1596529792372">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="615" y="210" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1680.1010@0.0.1680.1010" timestamp="1596529792372" />
   </component>
 </project>
