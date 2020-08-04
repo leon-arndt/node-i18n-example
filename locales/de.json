@@ -1,4 +1,4 @@
 {
   "Hello World": "Hallo Welt",
-  "Hello": "Hallo"
+  "Hello": "Hallo %s"
 }
